@@ -1,0 +1,15 @@
+D:\newcontrol\bin\Debug\net6.0\newcontrol.exe
+D:\newcontrol\bin\Debug\net6.0\newcontrol.deps.json
+D:\newcontrol\bin\Debug\net6.0\newcontrol.runtimeconfig.json
+D:\newcontrol\bin\Debug\net6.0\newcontrol.dll
+D:\newcontrol\bin\Debug\net6.0\newcontrol.pdb
+D:\newcontrol\obj\Debug\net6.0\newcontrol.csproj.AssemblyReference.cache
+D:\newcontrol\obj\Debug\net6.0\newcontrol.GeneratedMSBuildEditorConfig.editorconfig
+D:\newcontrol\obj\Debug\net6.0\newcontrol.AssemblyInfoInputs.cache
+D:\newcontrol\obj\Debug\net6.0\newcontrol.AssemblyInfo.cs
+D:\newcontrol\obj\Debug\net6.0\newcontrol.csproj.CoreCompileInputs.cache
+D:\newcontrol\obj\Debug\net6.0\newcontrol.dll
+D:\newcontrol\obj\Debug\net6.0\refint\newcontrol.dll
+D:\newcontrol\obj\Debug\net6.0\newcontrol.pdb
+D:\newcontrol\obj\Debug\net6.0\newcontrol.genruntimeconfig.cache
+D:\newcontrol\obj\Debug\net6.0\ref\newcontrol.dll
